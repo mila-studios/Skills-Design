@@ -41,7 +41,7 @@ These skills are the thinking phase, packaged.
 → They also do not cover the full UX research lifecycle. talk-to-users handles the front end (framing, method choice, questions, briefs), not synthesis, recruitment operations, or statistical analysis.
 
 ## License
-MIT. Use them, fork them, adapt them. If you improve something, consider opening a PR.
+[MIT.](https://github.com/mila-studios/Skills-Design/blob/d5b00bbe8761882aa2cc911a813a2c34470acfb2/License) Use them, fork them, adapt them. If you improve something, consider opening a PR.
 
 ## Credits
 Built by Manon Gruaz, Lead Human-AI Experience at Mila Studios.
