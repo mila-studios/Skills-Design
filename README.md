@@ -1,4 +1,4 @@
-# Skill-Design
+# Skills-Design
 Design knowledge you can install, not just read.
 
 Three skills built from real UX practice at Mila packaged so engineers, researchers, students, and designers can use them directly in their coding environment through Claude.
